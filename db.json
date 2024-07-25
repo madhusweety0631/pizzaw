@@ -1,0 +1,124 @@
+{
+    "pizza":[
+        {
+            "id":1,
+            "name":"Loaded Veggie BBQ",
+            "price":35,
+            "category":"non-veg",
+            "imageUrl":"https://api.pizzahut.io/v1/content/en-in/in-1/images/side/loaded-veggie-bbq-single.f947c28d2a08a955238dd425a783b01c.1.jpg",
+            "description":"Thin & Crispy crust, loaded with Crunchy Onion, Green Capsicum, Red Bell Pepper, Juicy Corn, Mushroom, 100% mozzarella cheese, flavorful sauce, and a generous drizzle of signature barbeque sauce, folded over and baked, then brushed with herbed butter and sprinkled with our signature spice seasoning (255 Kcal/100g)"
+        },
+
+        {
+            "id":2,
+            "name":"Cheezy Sprinkled Fries",
+            "price":35,
+            "category":"veg",
+            "imageUrl":"https://api.pizzahut.io/v1/content/en-in/in-1/images/side/cheesy-popcorn-sprinkled-fries-single.c0383bb1c62c78f295e1dabe6dd2dabd.1.jpg",
+            "description":"more crspy"
+
+        },
+
+        {
+            "id":3,
+            "name":"BBQ Baked Chicken Wings 4 Pcs",
+            "price":150,
+            "category":"non-veg",
+            "imageUrl":"https://api.pizzahut.io/v1/content/en-in/in-1/images/side/bbq-baked-chicken-wings-4-pcs-single.264b114b80f23dd2c50851bde062bfdf.1.jpg",
+            "description":"All New Baked BBQ chicken wings. Its juicy, spicy & so much flaourful (4Pcs) (206 Kcal/100g)"
+        },
+
+        {
+            "id":4,
+            "name":"BBQ Baked Chicken Wings 6 Pcs",
+            "price":350,
+            "category":"non-veg",
+            "imageUrl":"https://api.pizzahut.io/v1/content/en-in/in-1/images/side/bbq-baked-chicken-wings-single.d099651ad0b5416ce28be1b18ba4d697.1.jpg",
+            "description":"All New Baked BBQ chicken wings. Its juicy, spicy & so much flaourful (6Pcs) (206 Kcal/100g)"
+
+        },
+
+        {
+            "id":5,
+            "name":"Cheezy Cheese Chicken",
+            "price":35,
+            "category":"non-veg",
+            "imageUrl":"https://api.pizzahut.io/v1/content/en-in/in-1/images/side/cheesy-cheese-popcorn-chicken-single.2e6f9ac67fa80f6288f32d0acdd4fbd1.1.jpg?width=251",
+            "description":"Thin &amp; Crispy crust, loaded with juicy Chicken Sausage, Crunchy Onion , Green Capsicum, Red Bell Pepper, 100% mozzarella cheese, flavorful sauce, folded over and baked then brushed with herbed butter and sprinkled with cheezy seasoning (268 Kcal/100g)"
+
+        },
+
+        {
+           "id":6,
+           "name":"Classic Bread Stix",
+           "price":99,
+           "category":"veg",
+           "imageUrl":"https://api.pizzahut.io/v1/content/en-in/in-1/images/side/garlic-bread-stix.483aa904aa663102c645ce56261d360d.1.jpg",
+           "description":"Freshly baked buttery bread stick, sprinkled with herbs (287 Kcal/100g)"
+
+
+        },
+
+        {
+           "id":7,
+           "name":"Loaded Breadstix",
+           "price":99,
+           "category":"veg",
+           "imageUrl":"https://api.pizzahut.io/v1/content/en-in/in-1/images/side/creamy-garlic-bread-stix.53825d02235a58ba128e39e938fe7aa1.1.jpg",
+           "description":"Freshly baked bread sticks, topped with cheesy dressing & herbs (320 Kcal/100g)"
+
+        },
+
+        {
+           "id":8,
+           "name":"Zesty Chicken Pocket",
+           "price":239,
+           "category":"non-veg",
+           "imageUrl":"https://api.pizzahut.io/v1/content/en-in/in-1/images/side/zesty-chicken-pocket.dbe88abe1adeee1dc4d5bec7390327f0.1.jpg",
+           "description":"Freshly Baked Pocket Stuffed With Chicken, Veggies & Smoked Texas Garlic Sauce (216 Kcal/100g)"
+   
+        },
+
+        {
+           "id":9,
+           "name":"Jalapeno Poppers",
+           "price":23,
+           "category":"Biscuits",
+           "imageUrl":"https://api.pizzahut.io/v1/content/en-in/in-1/images/side/jalapeno-poppers.0570e4206c04cedf358b656e0f47c664.1.jpg",
+           "description":"Jalapeno Poppers With Gooey White Sauce (250 Kcal/100g)"
+   
+        },
+
+        {
+           "id":10,
+           "name":"Tandoori Paneer Pasta",
+           "price":209,
+           "category":"PizzaTondoori",
+           "imageUrl":"https://api.pizzahut.io/v1/content/en-in/in-1/images/side/tandoori-paneer-pasta-single.fb174afb4c037117481d4bb2bf6ad1e3.1.jpg",
+           "description":"Penne pasta baked in your favorite tandoori sauce along with flavorful soft paneer, green capsicum, onion and red capsicum (231 Kcal/100g)"
+        },
+
+        {
+           "id":11,
+           "name":"Spicy Red Schezwan Pasta",
+           "price":209,
+           "category":"Pizza",
+           "imageUrl":"https://api.pizzahut.io/v1/content/en-in/in-1/images/side/spicy-schezwan-pasta-single.35bd38e62a72be9688fcef445470b8dd.1.jpg",
+           "description":"Fusilli pasta baked in Spicy Schezwan sauce, along with green capsicum, onion, red capsicum and paprika for an added zing (190 Kcal/100g)"
+        },
+
+        {
+           "id":12,
+           "name":"Momo Dip (18 Kcal/15g)",
+           "price":20,
+           "category":"sauge",
+           "imageUrl":"https://api.pizzahut.io/v1/content/en-in/in-1/images/side/schezwan-dip-single.212b7b4f080b2c18a19f8de79ab4ce3a.1.jpg"
+        }
+
+        
+
+
+        
+
+    ]
+}
